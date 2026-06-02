@@ -53,6 +53,7 @@ beecrowd/
 | [1003](./1000-1099/1003.cpp) | Soma Simples | C++ | ⭐ |
 | [1004](./1000-1099/1004.cpp) | Produto Simples | C++ | ⭐ |
 | [1005](./1000-1099/1005.cpp) | Média 1 | C++ | ⭐ |
+| [1006](/iniciante%201000-1099/1006.C++) | Média 2 | C++ | ⭐ |
 
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
