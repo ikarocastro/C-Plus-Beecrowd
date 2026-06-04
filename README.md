@@ -54,7 +54,7 @@ beecrowd/
 | [1004](./1000-1099/1004.cpp) | Produto Simples | C++ | ⭐ |
 | [1005](./1000-1099/1005.cpp) | Média 1 | C++ | ⭐ |
 | [1006](/iniciante%201000-1099/1006.C++) | Média 2 | C++ | ⭐ |
-
+| [1007](#-iniciante-10001099/1007.C++) | Diferença | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
