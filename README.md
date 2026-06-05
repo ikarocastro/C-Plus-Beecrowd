@@ -55,6 +55,7 @@ beecrowd/
 | [1005](./1000-1099/1005.cpp) | Média 1 | C++ | ⭐ |
 | [1006](/iniciante%201000-1099/1006.C++) | Média 2 | C++ | ⭐ |
 | [1007](#-iniciante-10001099/1007.C++) | Diferença | C++ | ⭐ |
+| [1008](#-iniciante-10001099/1008.C++) | salário | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
