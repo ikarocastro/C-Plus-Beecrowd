@@ -60,6 +60,7 @@ beecrowd/
 | [1010](#-iniciante-10001099/1010.C++) | Cálculo Simples | C++ | ⭐ |
 | [1011](#-iniciante-10001099/1011.C++) | Esfera | C++ | ⭐ |
 | [1012](#-iniciante-10001099/1012.C++) | Área | C++ | ⭐ |
+| [1013](#-iniciante-10001099/1013.C++) | O maior | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
