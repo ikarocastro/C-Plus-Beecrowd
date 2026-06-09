@@ -58,6 +58,7 @@ beecrowd/
 | [1008](#-iniciante-10001099/1008.C++) | salário | C++ | ⭐ |
 | [1009](#-iniciante-10001099/1009.C++) | salário com bônus | C++ | ⭐ |
 | [1010](#-iniciante-10001099/1010.C++) | Cálculo Simples | C++ | ⭐ |
+| [1011](#-iniciante-10001099/1011.C++) | Esfera | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
