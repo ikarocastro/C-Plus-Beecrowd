@@ -61,6 +61,7 @@ beecrowd/
 | [1011](#-iniciante-10001099/1011.C++) | Esfera | C++ | ⭐ |
 | [1012](#-iniciante-10001099/1012.C++) | Área | C++ | ⭐ |
 | [1013](#-iniciante-10001099/1013.C++) | O maior | C++ | ⭐ |
+| [1014](#-iniciante-10001099/1014.C++) | Consumo | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
