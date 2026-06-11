@@ -63,6 +63,7 @@ beecrowd/
 | [1013](#-iniciante-10001099/1013.C++) | O maior | C++ | ⭐ |
 | [1014](#-iniciante-10001099/1014.C++) | Consumo | C++ | ⭐ |
 | [1015](#-iniciante-10001099/1015.C++) | Distância Entre Dois Pontos | C++ | ⭐⭐ |
+| [1016](#-iniciante-10001099/1016.C++) | Distância | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
