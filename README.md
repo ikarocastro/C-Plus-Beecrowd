@@ -65,6 +65,7 @@ beecrowd/
 | [1015](#-iniciante-10001099/1015.C++) | Distância Entre Dois Pontos | C++ | ⭐⭐ |
 | [1016](#-iniciante-10001099/1016.C++) | Distância | C++ | ⭐ |
 | [1017](#-iniciante-10001099/1017.C++) | Gasto de Combustível | C++ | ⭐ |
+| [1018](#-iniciante-10001099/1018.C++) | Cédulas | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
