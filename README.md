@@ -66,6 +66,7 @@ beecrowd/
 | [1016](#-iniciante-10001099/1016.C++) | Distância | C++ | ⭐ |
 | [1017](#-iniciante-10001099/1017.C++) | Gasto de Combustível | C++ | ⭐ |
 | [1018](#-iniciante-10001099/1018.C++) | Cédulas | C++ | ⭐ |
+| [1019](#-iniciante-10001099/1019.C++) | Conversão de Tempo | C++ | ⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
