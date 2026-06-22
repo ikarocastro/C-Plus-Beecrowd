@@ -68,6 +68,7 @@ beecrowd/
 | [1018](#-iniciante-10001099/1018.C++) | Cédulas | C++ | ⭐ |
 | [1019](#-iniciante-10001099/1019.C++) | Conversão de Tempo | C++ | ⭐ |
 | [1020](#-iniciante-10001099/1020.C++) | Idade em Dias | C++ | ⭐ |
+| [1021](#-iniciante-10001099/1021.C++) | Notas e Moedas | C++ | ⭐⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
