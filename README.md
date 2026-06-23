@@ -70,6 +70,7 @@ beecrowd/
 | [1020](#-iniciante-10001099/1020.C++) | Idade em Dias | C++ | ⭐ |
 | [1021](#-iniciante-10001099/1021.C++) | Notas e Moedas | C++ | ⭐⭐ |
 | [1022](#-iniciante-10001099/1022.C++) | TDA Racional | C++ | ⭐⭐⭐ |
+| [1023](#-iniciante-10001099/1023.cpp) | Estiagem | C++ | ⭐⭐⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
