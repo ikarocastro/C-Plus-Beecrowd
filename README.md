@@ -71,6 +71,7 @@ beecrowd/
 | [1021](#-iniciante-10001099/1021.C++) | Notas e Moedas | C++ | ⭐⭐ |
 | [1022](#-iniciante-10001099/1022.C++) | TDA Racional | C++ | ⭐⭐⭐ |
 | [1023](#-iniciante-10001099/1023.cpp) | Estiagem | C++ | ⭐⭐⭐ |
+| [1024](#-iniciante-10001099/1024.cpp) | Criptografia | C++ | ⭐⭐ |
 > ℹ️ Atualize esta tabela conforme for adicionando novos problemas.
 
 ---
